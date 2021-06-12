@@ -2,4 +2,4 @@
 
 # prueba 0
 
-# comprobancia de la prueba
+comprobancia de la prueba
